@@ -18,7 +18,7 @@ $(function(){
             phase++;
         } else {
             let delta = yzqn['q'] - yzqn['z'];
-            if(delta < 0) delta += + yzqn['n'];
+            if(delta < 0) delta += yzqn['n'];
             else if(delta > yzqn['n']) delta -= yzqn['n'];
             clearSD();
             writeSD('Loading (or maybe theres an error).');
