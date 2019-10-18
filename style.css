@@ -1,5 +1,5 @@
 .input{
-    font-size: 140%;
+    font-size: 300%;
 }
 
 .calc-btn{
@@ -13,11 +13,16 @@
 
 .del{
     text-align: center;
-    font-size: 120%;
+    font-size: 200%;
 }
 
 .del:hover{
     background-color: yellow !important;
+}
+
+.enter{
+    text-align: center;
+    font-size: 200%;
 }
 
 .enter:hover{
