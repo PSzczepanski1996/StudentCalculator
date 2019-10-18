@@ -1,0 +1,29 @@
+.input{
+    font-size: 140%;
+}
+
+.calc-btn{
+    text-align: center;
+    font-size: 500%;
+}
+
+.calc-btn:hover{
+    background-color: lightgray !important;
+}
+
+.del{
+    text-align: center;
+    font-size: 120%;
+}
+
+.del:hover{
+    background-color: yellow !important;
+}
+
+.enter:hover{
+    background-color: blue !important;
+}
+
+.mh-20{
+  min-height: 20%;
+}
